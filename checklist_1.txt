@@ -1,0 +1,19 @@
+Registration:
+E-mail
+Social Media
+Field validation
+
+Authentication:
+User is activated
+User is not activated
+Password reset
+Field validation
+
+Profile:
+Login reset
+E-mail reset
+Password reset
+Field validation
+Subscription
+Delete account
+
